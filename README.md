@@ -5,6 +5,7 @@ ESCAdocker was created to improve reproducibly of ESCA pipeline. We have exporte
 If you have conda environment management system already installed in your system, let's download the file condaESCAenvironment.yml in your PC, then
 
 $ conda env create -f condaESCAenvironment.yml
+
 $ conda activate escaenv
 
 Otherwise, if you don't have conda already installed in you PC let's see at :
