@@ -10,6 +10,6 @@ $ conda activate escaenv
 
 Otherwise, if you don't have conda already installed in you PC let's see at :
 
-conda.io/projects/conda/en/latest/user-guide/install/index.html
+https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 
 to learn more about conda installation and usage.
